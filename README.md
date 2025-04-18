@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/samandar-azamov-7b46a3258/" target="_blank">Azamov Samandar</a> | 
-  <strong>WebSite:</strong> <a href="https://jscorp.uz" target="_blank">jscorp.uz</a> | 
-  <strong>Telegram:</strong> <a href="https://t.me/Azamov_Samandar" target="_blank">@Azamov_Samandar</a>
+  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/samandar-azamov-7b46a3258/" target="_blank">Azamov Samandar</a> | 
+  <strong>📢 WebSite:</strong> <a href="https://jscorp.uz" target="_blank">jscorp.uz</a> | 
+  <strong>💬 Telegram:</strong> <a href="https://t.me/Azamov_Samandar" target="_blank">@Azamov_Samandar</a>
 </p>
