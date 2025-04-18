@@ -19,4 +19,6 @@ You can click the Preview link to take a look at your changes.
   Specializing in API Development, Database Optimization, and Backend Architecture
 </p>
 
+<p align="center">
 🔗 **LinkedIn:** [Azamov Samandar](https://www.linkedin.com/in/samandar-azamov-7b46a3258/) | 📢 **WebSite:** [jscorp.uz](https://jscorp.uz) | 💬 **Telegram:** [@Azamov_Samandar](https://t.me/Azamov_Samandar)
+</p>
